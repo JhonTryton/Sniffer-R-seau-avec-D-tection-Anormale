@@ -1,0 +1,25 @@
+[2025-03-08 12:45:23] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:24] 192.168.1.3 → DNS facebook.com | Statut: NORMAL  
+[2025-03-08 12:45:25] 192.168.1.4 → DNS yahoo.com | Statut: NORMAL  
+[2025-03-08 12:45:26] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:27] 192.168.1.3 → DNS twitter.com | Statut: NORMAL  
+[2025-03-08 12:45:28] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:29] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:30] 192.168.1.5 → DNS example.com | Statut: NORMAL  
+[2025-03-08 12:45:31] 192.168.1.6 → DNS banking.com | Statut: NORMAL  
+[2025-03-08 12:45:32] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:33] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:34] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:35] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:36] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:37] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:38] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:39] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:40] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:41] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:42] 192.168.1.2 → DNS google.com | Statut: NORMAL  
+[2025-03-08 12:45:43] 192.168.1.2 → DNS google.com | Statut: ANORMAL - 21 requêtes en 10s  
+[2025-03-08 12:45:44] 192.168.1.7 → DNS darkwebmarket.com | Statut: ANORMAL - Domaine suspect  
+[2025-03-08 12:45:45] 192.168.1.8 → DNS secretserver.com | Statut: ANORMAL - Contient un mot-clé sensible  
+[2025-03-08 12:45:46] 192.168.1.9 → DNS login.hackingtool.com | Statut: ANORMAL - Accès à une URL suspecte  
+[2025-03-08 12:45:47] 192.168.1.2 → DNS google.com | Statut: NORMAL  
