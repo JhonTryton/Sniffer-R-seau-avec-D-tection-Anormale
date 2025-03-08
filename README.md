@@ -63,7 +63,7 @@ Conclusion
 Ce projet offre un sniffer réseau complet permettant d’analyser le trafic DNS et d’identifier les comportements suspects.
 
  Objectifs atteints :
-✅ Capture du trafic DNS
-✅ Détection d’anomalies et alertes
-✅ Enregistrement des logs
-✅ Documentation complète
+- Capture du trafic DNS
+- Détection d’anomalies et alertes
+- Enregistrement des logs
+- Documentation complète
